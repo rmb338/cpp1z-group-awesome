@@ -32,7 +32,7 @@ ajson [https://github.com/lordoffox/ajson](https://github.com/lordoffox/ajson) �
 Scarface
 主页：[https://github.com/roy2220](https://github.com/roy2220)
 推荐项目：
-siren [https://github.com/roy2220/siren](https://github.com/roy2220/siren) 就是把原本到2^N临界才rehash的操作分摊到每次插入上
+siren [https://github.com/roy2220/siren](https://github.com/roy2220/siren) 就是把原本到2^N 临界才rehash的操作分摊到每次插入上
 
 
 网事如风：
