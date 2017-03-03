@@ -18,7 +18,7 @@ rest_rpc:[https://github.com/qicosmos/rest_rpc](ttps://github.com/qicosmos/rest_
 Kapok:更好的序列化库，c++14开发，header-only，简洁高效。
 
 
-Mr.li(大名顶顶的余老师,魅族高级架构师):
+Mr.li(大名顶顶的于老师,魅族高级架构师):
 主页：[https://github.com/yyzybb537](https://github.com/yyzybb537)
 推荐项目：
 libgo:[https://github.com/yyzybb537/libgo](https://github.com/yyzybb537/libgo) libgo是一个使用C++11编写的协作式调度的stackful协程库
